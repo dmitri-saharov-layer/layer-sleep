@@ -1,0 +1,5 @@
+FROM vm/ubuntu:18.04
+
+RUN sleep 5
+
+RUN echo 'hello!'
